@@ -1,0 +1,11 @@
+#!/bin/sh
+
+uci -q batch <<-EOF >/dev/null
+	delete ucitrack.@eoip[-1]
+	add ucitrack eoip
+	set ucitrack.@eoip[-1].init=eoip
+	commit ucitrack
+EOF
+
+rm -f /tmp/luci-indexcache
+exit 0
