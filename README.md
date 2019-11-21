@@ -17,3 +17,7 @@ After install you get web to work EOIP
 
 <img src="https://sun9-20.userapi.com/c857524/v857524187/f2b86/3hchdvR60zs.jpg" width="440" alt="">
 
+-TODO:
+- 1. Check for duplicate channel identifiers
+- 2. Manage VLAN tag on this channel
+
