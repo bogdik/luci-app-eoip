@@ -7,6 +7,7 @@ For use web config https://github.com/bogdik/openwrt-linux-eoip
 - Download this repository
 - Place this to openwrt/feeds/luci/applications/luci-app-eoip
 - Create sym link from openwrt/feeds/luci/applications/luci-app-eoip to openwrt/package/feeds/luci/luci-app-eoip
+- Run ```make menuconfig```
 - Select packet on LuCI-> Applications 
 (Don't forget this packege need linux-eoip my version)
 
