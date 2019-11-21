@@ -19,5 +19,5 @@ After install you get web to work EOIP
 
 -TODO:
 - 1. Check for duplicate channel identifiers
-- 2. Manage VLAN tag on this channel
+- 2. Manage VLAN tag on this channel(s)
 
