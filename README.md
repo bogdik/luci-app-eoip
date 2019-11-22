@@ -16,9 +16,6 @@ For use web config https://github.com/bogdik/openwrt-linux-eoip
 
 After install you get web to work EOIP
 
-<img src="https://sun9-20.userapi.com/c857524/v857524187/f2b86/3hchdvR60zs.jpg" width="440" alt="">
+<img src="https://sun9-28.userapi.com/c854120/v854120423/16991a/w2Eoio6EOHA.jpg" width="440" alt="">
 
--TODO:
-- 1. Check for duplicate channel identifiers
-- 2. Manage VLAN tag on this channel(s)
 
