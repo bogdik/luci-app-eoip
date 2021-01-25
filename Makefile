@@ -7,7 +7,7 @@
 include $(TOPDIR)/rules.mk
 
 LUCI_TITLE:=EoIP-Mikrotik-compatible EoIP tunnel
-LUCI_DEPENDS:=+linux-eoip
+LUCI_DEPENDS:=+luci-compat +linux-eoip
 
 include ../../luci.mk
 
