@@ -1,3 +1,4 @@
+# You may use this on main branch!
 # luci-app-eoip
 Ethernet Over IP, mikrotik compatible Luci Web interface
 
